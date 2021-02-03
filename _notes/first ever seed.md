@@ -2,9 +2,9 @@
 title: Your first seed 
 ---
 
-(this is where I talk to myself about metadata) and dump all guidelines on how to properly format my notes)
-
 ### Welcome!
+
+(this is where I talk to myself about metadata) and dump all guidelines on how to properly format my notes)
 
 Testing whatever [[sampah]] I can put in here. Also [[work]] stuff.
 
