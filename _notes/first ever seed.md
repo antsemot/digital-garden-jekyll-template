@@ -1,12 +1,12 @@
 ---
-title: Your first seed (this is where I talk to myself about metadata)
+title: Your first seed (this is where I talk to myself about metadata) and dump all guidelines on how to properly format my notes
 ---
 
 ### Welcome!
 
-Testing whatever [[sampah]] I can put in here
+Testing whatever [[sampah]] I can put in here. Also [[work]] stuff.
 
-This is your first note. You'll find it in the [`notes/`](https://github.com/antsemot/digital-garden-jekyll-template/tree/master/_notes) directory. This is my Github repository, btw. Feel free to fork.
+This is my first first note. You'll find it in the [`notes/`](https://github.com/antsemot/digital-garden-jekyll-template/tree/master/_notes) directory. This is my Github repository, btw. Feel free to fork.
 
 ### Link syntax
 
