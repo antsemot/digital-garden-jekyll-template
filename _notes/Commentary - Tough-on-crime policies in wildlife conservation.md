@@ -1,5 +1,13 @@
 ---
-title: Sampah
+title: Commentary - Tough-on-crime policies in wildlife conservation
 ---
 
-This is essentially the place where I put all clutters in my head. Still disorganized, but it's a work in progress.
+definitions
+
+wildlife crime reduction usually involves species legal protection, enforcement of existing protections, punitive sentencing policies
+
+
+areas with weak political institution will have a problem with such interventions (militarized anti-poaching strategies, punitive sentencing)
+
+sentencing in this paper != punishment, it relies on judicial processes
+
