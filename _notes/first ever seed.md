@@ -10,6 +10,8 @@ Testing whatever [[sampah]] I can put in here. Also [[work]] stuff.
 
 This is my first first note. You'll find it in the [`notes/`](https://github.com/antsemot/digital-garden-jekyll-template/tree/master/_notes) directory. This is my Github repository, btw. Feel free to fork.
 
+Malaysian tax sucks - better website (or manual)
+
 ### Link syntax
 
 To link to another note, you can use multiple syntaxes. The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).

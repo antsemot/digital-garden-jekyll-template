@@ -1,7 +1,9 @@
 ---
+title: things keeping me sane
 ---
 
-Move your body every day. Benefits include:
+
+Benefits include:
 
 - Improved sleep quality
 - Less risk of chronic disease

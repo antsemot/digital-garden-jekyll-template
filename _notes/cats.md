@@ -4,7 +4,7 @@ title: A note about cats
 
 This is a second note with a poem with cats. 
 
-Here's a link to a note that explains why it's important to [[move your body every day]].
+Here's a link to a note that an extensive list of all non-important stuff I do to keep my mental health in check [[things keeping me sane]].
 
 > I like my pillow, my fancy bed,
 >
